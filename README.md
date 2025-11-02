@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Experienced Software Developer passionate about crafting high-performance, user-friendly web applications. My expertise lies in leveraging modern front-end technologies such as ReactJS, NextJS, and TypeScript to deliver robust and scalable solutions. I possess a strong interest in Artificial Intelligence and Machine Learning, actively seeking opportunities to integrate these advanced technologies into innovative projects and continuously expand my knowledge in these fields. I thrive in collaborative environments, where I can apply my analytical, communication, and organizational skills to contribute effectively to team goals and achieve exceptional outcomes.
+Experienced Software Developer passionate about crafting high-performance, user-friendly web applications. My expertise lies in leveraging modern front-end technologies such as ReactJS, NextJS, and TypeScript to deliver robust and scalable solutions. I possess a strong interest in Artificial Intelligence and Machine Learning, actively seeking opportunities to integrate these advanced technologies into innovative projects and continuously expand my knowledge in these fields. I thrive in collaborative environments, where I can apply my analytical, communication, and organizational skills to contribute effectively to team goals and achieve exceptional outcomes.
 
 
 ## 🌐 Socials:
